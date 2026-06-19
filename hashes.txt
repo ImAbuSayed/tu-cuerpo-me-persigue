@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu cuerpo me persigue
+
+This log tracks the cryptographic history and versioning for the song **Tu cuerpo me persigue** (tu-cuerpo-me-persigue).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:35:40.503031 | `v1` | `464a32c90cfe3cf76dbd9ca78639db68d8e43cd868886cd264c46cefb8248666` | `98f47f6465157d5911b905b9cf02ce67ca9160b12af392943bdd141fd0d89021` | `2026-06-19_tu-cuerpo-me-persigue-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

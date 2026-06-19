@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-me-persigue/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu cuerpo me persigue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-persigue/) |
+| **Get License** | [Secure Licensing Rights for Tu cuerpo me persigue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-persigue/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `464a32c90cfe3cf76dbd9ca78639db68d8e43cd868886cd264c46cefb8248666` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
