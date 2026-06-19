@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-me-persigue/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tu cuerpo me persigue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-persigue/) |
+| **Get License** | [Official Music Licensing for Tu cuerpo me persigue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-persigue/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu cuerpo me persigue por la madrugá', baby
+> Una locura que no quiero apagar
+> Siento tu fuego quemando la ciudad
+> Ven, que esta noche no tiene final
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
